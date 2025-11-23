@@ -42,7 +42,7 @@ Follow these exact steps to run the project:
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone <your-repository-url>
+git clone <https://github.com/devMohammadAliKarimi/fars-news.git>
 cd FarsNews
 
 ### 🔹 Install dependencies
